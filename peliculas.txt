@@ -1,3 +1,3 @@
-peliculas 1
-peliculas 2
-peliculas 3
+peliculas 1 Peliculaza
+peliculas 2 Peliculon
+peliculas 3 Peliculita

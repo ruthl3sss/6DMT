@@ -1,3 +1,3 @@
-discos 1
-discos 2
-discos 3
+discos 1 Disquito
+discos 2 Discazo
+discos 3 Disquete
